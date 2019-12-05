@@ -8,6 +8,18 @@ Competencias Comportamentales Directivas en la era digital (Co2 Di2).
 
 La Facultad de Psicología y la Facultad de Ingeniería Mecánica y Eléctrica, ambas de la Universidad Autónoma de Nuevo León, se han unido para poder crear una aplicación mediante la cual un individuo pueda contestar sus propias pruebas de aptitudes, proporcionando a un usuario superior y a él mismo, un diagnóstico en base a los resultados obtenidos de las respuestas seleccionadas previamente. Las pruebas tendrán un algoritmo que obtendrá un perfil específico para cada usuario que lo conteste. Eventualmente, la aplicación podrá utilizarse para cualquier empresa registrada.
 
+El objetivo principal de Co2-Di2 (o simplemente CODI) será el de diseñar una aplicación para
+ayudar mediante un algoritmo el diagnóstico de las aptitudes de un usuario, que ahora con el avance
+en la industria 4.0 ahora se podrá utilizar para diferentes empresas que necesiten este servicio,
+dándoles perfiles de los usuarios a los que se aplicó las pruebas. Todo esto mediante una sesión de
+roles en donde el usuario administrador podrá monitorear de forma individual cada resultado de cada
+usuario que ha contestado las pruebas correspondientes a un periodo que él mismo debería crear
+previamente y mediante un sistema de carga masiva de usuarios para facilitar el acceso a esta.
+• Objetivo General: Crear una aplicación que pueda tomar los diferentes perfiles de aptitudes
+emocionales de las personas encargadas de las diferentes empresas, países, regiones…
+• Objetivo Especifico: Medir los criterios dados con un algoritmo para evaluar los resultados
+individuales de las p
+
 Herramientas utilizadas:
 -Java 12
 -SpringBoot 2.0 (Spring Framework, Spring Security)
