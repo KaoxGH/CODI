@@ -22,6 +22,10 @@ Esquema de pantallas:
 
 ![image](https://user-images.githubusercontent.com/29785115/70221245-9df03400-170d-11ea-9a59-4a105694a31c.png)
 
+Contacto:
+
+![image](https://user-images.githubusercontent.com/29785115/70221832-a7c66700-170e-11ea-8c20-be8a4b13a9b0.png)
+
 Estructura de la Base de Datos
 
 ![image](https://user-images.githubusercontent.com/29785115/70221290-b19b9a80-170d-11ea-9693-406fb89a7c9c.png)
