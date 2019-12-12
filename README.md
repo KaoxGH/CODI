@@ -54,6 +54,6 @@ Visualización de grupos:
 
 ![image](https://user-images.githubusercontent.com/29785115/70221558-35558700-170e-11ea-9d92-1dc8b352f71f.png)
 
-Vizualicación de usuarios:
+Visualización de usuarios:
 
 ![image](https://user-images.githubusercontent.com/29785115/70221624-528a5580-170e-11ea-9b21-a80c38df5d12.png)
